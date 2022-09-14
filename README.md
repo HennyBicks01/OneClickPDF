@@ -34,7 +34,7 @@ when said person clicks on the show more options button and the right click cont
 
 one click PDF implementation should pop up 
 
-### Requirements #1 
+### Requirements #2 
 
 Given a consumer of one click PDF right clicks on a text document  
 
@@ -42,7 +42,7 @@ when said person clicks on this show more options button on it the right click c
 
 one click PDF implementation should pop up 
 
-### Requirements #1 (additional implementation) 
+### Requirements #3 (additional implementation) 
 
 Given a consumer of one click PDF right clicks on multiple text documents through a shift click 
 
@@ -50,7 +50,7 @@ when said consumer clicks on the show more options button in the right click con
 
 one click PDF implementation should pop up allowing them to either convert or print all of the approved document types to a pdf 
 
-### Requirements #1 (additional implementation) 
+### Requirements #4 (additional implementation) 
 
 Give it a consumer of one click PDF right clicks on A folder comprised of only text documents or word documents or a combination of the two 
 
