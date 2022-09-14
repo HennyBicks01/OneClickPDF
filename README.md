@@ -5,7 +5,8 @@ When brainstorming design options, we decided that a one click PDF function as a
 ## Mockup 
 
 ![Mock-up](https://user-images.githubusercontent.com/73999671/190031544-b98dc32f-b35a-498e-9740-d60e74795fcf.png)
-While there wouldn’t be much of a mockup for this type of thing using the example of 7-zip helps emphasize the point. As an enterprise application like this is made exclusively for convenience purposes 
+
+While there wouldn’t be much of a mockup for this type of product using the example of 7-zip helps emphasize the sentiment. As an enterprise application like this is made exclusively for convenience purposes 
 
 Graphical user interface, text
 
