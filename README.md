@@ -8,10 +8,6 @@ When brainstorming design options, we decided that a one click PDF function as a
 
 While there wouldn’t be much of a mockup for this type of product using the example of 7-zip helps emphasize the sentiment. As an enterprise application like this is made exclusively for convenience purposes 
 
-Graphical user interface, text
-
-Description automatically generated 
-
 ## Functional requirements 
 
 ### Theoretical #1 
